@@ -1,2 +1,4 @@
 node_modules/
 .env
+uplouds/productos/**.*
+uplouds/usuarios/**.*
